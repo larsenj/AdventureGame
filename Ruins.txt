@@ -1,0 +1,20 @@
+
+The passageway opens up to the familiar sight of the ruins, and the insidious
+and constant whispering that surrounds them.
+~
+The passageway opens up a bit. There a walls, most of them cumbling and  largely
+destoryed. I can only surmise that there was once a series of buildings here. This
+is exactly the kind of thing my companions and I had come here to study. Oh the
+archeological papers we could have written! But now I must forgo any hope of study
+in favor of the mere act of staying alive. Or even sane, as all around these ruins
+I hear whispers. Whispers just low enough that I cannot make out what they say,
+though this may come as a mercy as I fear the things they would tell me. 
+~I must move on.
+1 - North
+2 - South
+3 - East
+4 - West
+5 - Stay, maybe I can figure out what the whospers say...
+~I must move on.
+1 - West
+2 - Stay, maybe I can figure out what the whospers say...

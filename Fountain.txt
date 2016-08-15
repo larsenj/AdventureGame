@@ -1,0 +1,28 @@
+
+I look around, and this seems to be a cave much like any of the others I have 
+seen here, but one thing stands out: in the middle of the open area lies a raised 
+shallow pool.
+~I look into the fountain and see a series of coins at the bottom of the clear
+water. One coin has a bright gold color, one is a shiny silver, and the last one
+is a brownish copper. I cannot make out the design on the coins, though this is
+perhaps for the best, as merely gazing upon them causes the back of my eyes to
+hurt, and a head-splitting pounding in my skull.
+1 - Pick up the copper coin
+2 - Pick up the silver coin
+3 - Pick up the gold coin
+4 - Nothing good can come from this - leave the pool alone
+~Looking once more into the pool, I see that the coins I had left behind are no
+longer there. I put my hand in my pocket and feel the slight weight of the coin
+I took - do I want to divest myself of this burden?
+1 - Yes, throw it back.
+2 - No, there may be some value to it yet.
+~Looking around, I see four ways I can leave this eerie place...
+1 - North
+2 - South
+3 - East
+4 - West
+5 - Stay
+~Looking around, there are only two options for moving on from here...
+1 - East
+2 - South
+3 - Stay

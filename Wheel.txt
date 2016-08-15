@@ -1,0 +1,37 @@
+
+I once again find myself in the room with the dial.
+~
+As the passageway opens I find myself in another cavern. The one differentiating
+feature of this one is one of the sides is a smooth, straight wall. Definitely
+not a natural formation, as these precise angles are not found normally in nature.
+Also because there is a complex dial on the wall. I look more closely, and it seems
+to be a mechanism comprised of an inner wheel and an outer one. There are identical
+markings on the wheels, primitive drawings depicting what I can only guess are
+a star, the sun, and the moon. I apply some pressure to them, and find that I can
+rotate the wheels should I so desire.
+~I can move the wheels, or try my luck elsewhere.
+1 - Turn inner wheel counter-clockwise
+2 - Turn inner wheel clockwise
+3 - Turn outer wheel couter-clockwise
+4 - Turn outer wheel clockwise
+5 - North
+6 - West
+~The open passages remain so.
+~With the extra open passages, I have more choices as to where to go.    
+1 - North
+2 - South
+3 - East
+4 - West
+~Inner wheel is a sun. Along its left, at the "8 o'clock" is the moon, along 
+the right at the "4" is the star.
+~Inner wheel is a star. Along its left, at the "8 o'clock" is the sun, along 
+the right at the "4" is the moon.
+~Inner wheel is a moon. Along its left, at the "8 o'clock" is the star, along 
+the right at the "4" is the moon.
+~Outer wheel is a moon. Along its left, at the "8 o'clock" is the sun, along 
+the right at the "4" is the star.
+~Outer wheel is a star. Along its left, at the "8 o'clock" is the moon, along 
+the right at the "4" is the star.
+~Outer wheel is a sun. Along its left, at the "8 o'clock" is the star, along 
+the right at the "4" is the moon.
+~The stars are aligned, the doorways are open. May God forgive me.

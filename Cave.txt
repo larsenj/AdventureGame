@@ -1,0 +1,14 @@
+
+The odd angles of the cavern, the grotesque fungal flora clinging to it sides, 
+the sounds of hollow screams coming from everywhere at once... I cannot be 
+certain, but I believe I have been here before...
+~I look around, vainly searching for some meager hint as to the exit, yet all I 
+see are stange colored mushrooms along the sides of what appears to be a cavern.
+I try to convince myself that the sounds I hear in the distance are the product 
+of geothermal drafts wafting through the caverns, and not the faint screams of 
+things that were once human.
+~Selection:
+    1 - North
+    2 - South
+    3 - East
+    4 - West

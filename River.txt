@@ -1,0 +1,32 @@
+
+The river is still there, tauntung me with the promise of nearby escape.
+~
+I come to yet another opening in the underground complex. A vast roiling river 
+of blackened ichor stretches before me, either end disappearing into the
+darkeness. Just beyond the river I see a faint bit of light - sunlight! This is
+the way out of this horrid place! I dare not try to swim across the putrid river,
+but nearby on the bank sits small wooden raft. I try to push it but quickly 
+realize it will not budge, regardless of my exertions. I notice a small empty can
+on the boat.
+~I have no use for the can and the raft canont be moved. Nothing is happening
+here.
+~Desperations gnaws at me, but still I dare not try swimming across these malignant
+waters. I must try something else. Three paths are available to me.
+1 - North
+2 - South
+3 - West
+~Perhaps the can is intended for some form of payment. I could place the coin I
+have in it, or I may try my luck elsewhere.
+1 - Place the coin in the can.
+2 - North
+3 - South
+4 - West
+~I dig the copper coin out fo my pocket, it seems to adhere to my hand, but 
+eventually I manage to drop it into the can. The boat rumbles and starts to move
+of it's own volition into the river! I scramble aboard and graspe what edges I 
+can as it slowly moves across the river. I briefly look into the waters then
+quickly scruntch my eyes shut, telling myself that I did not see multitudes of
+damned souls pleding for help.
+~I placed the coin in the can. It rattles around, shoots out into the air, then 
+falls into the river. I have the distinct impression that I must have missed 
+something.
